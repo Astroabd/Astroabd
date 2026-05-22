@@ -38,7 +38,7 @@
 <!-- Call to action with colored buttons/badges -->
 <p align="center">
   <a href="https://x.com/astr0_guy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/abduljaleel-aljaour"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+  <a href="https://linkedin.com/in/abduljaleel-aljaour"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="blank"></a>
   <!-- Gmail Badge -->
 <a href="mailto:astroabed@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
