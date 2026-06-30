@@ -15,7 +15,7 @@
 
 <!-- Colorful badges row (professional + visual pop) -->
 <p align="center">
-  <a href="https://github.com/Astroabd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
   <img src="https://img.shields.io/badge/AI%20Builder-6366F1?style=for-the-badge&logo=ai&logoColor=white" alt="AI Builder">
   <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Innovation-EC4899?style=for-the-badge" alt="Creativity">
   <!-- Add your actual tech badges here, e.g. -->
